@@ -1,8 +1,8 @@
 # Air Scape  
 
-Hackster.io Project - Particulate detector for air quality using Sony Spresense
- 
-index.js submission for Alexa Skill
+### Hackster.io Project - Particulate detector for air quality using Sony Spresense  
+
+## This is the index.js submission for Alexa Skill named ("Air Scape")
 
 Project: Air Quality particulate matter tracker with Amazon Alexa
 
