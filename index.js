@@ -3,7 +3,7 @@ const Alexa = require('alexa-sdk');
 
 //Replace with your app ID (OPTIONAL).  You can find this value at the top of your skill's page on http://developer.amazon.com.
 //Make sure to enclose your value in quotes, like this: const APP_ID = 'amzn1.ask.skill.bb4045e6-b3e8-4133-b650-72923c5980f1';
-const APP_ID = "amzn1.ask.skill.9300e129-9bb5-4a95-b959-dac21242d2e0";
+const APP_ID = "amzn1.ask.skill.7caf7c06-e69c-458e-a5c0-4a6cb67af86e";
 
 const SKILL_NAME = 'air scape';
 const HELP_MESSAGE = 'You can ask me for the latest air quality for your location, or, you can say exit... What location can I help you with?';
