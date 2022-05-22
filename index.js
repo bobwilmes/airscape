@@ -5,9 +5,9 @@ const Alexa = require('alexa-sdk');
 //Make sure to enclose your value in quotes, like this: const APP_ID = 'amzn1.ask.skill.bb4045e6-b3e8-4133-b650-72923c5980f1';
 const APP_ID = "amzn1.ask.skill.9300e129-9bb5-4a95-b959-dac21242d2e0";
 
-const SKILL_NAME = 'Mood Tracker';
-const HELP_MESSAGE = 'You can tell me how you\'re feeling, or, you can say exit... What can I help you with?';
-const HELP_REPROMPT = 'How are you feeling?';
+const SKILL_NAME = 'air scape';
+const HELP_MESSAGE = 'You can ask me for the latest air quality for your location, or, you can say exit... What location can I help you with?';
+const HELP_REPROMPT = 'How is your air quality?';
 const STOP_MESSAGE = 'Goodbye!';
 
 var happy = [];
