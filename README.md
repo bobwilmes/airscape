@@ -8,7 +8,7 @@
 
 ### Team members: Bob Wilmes   
 
-### Sponsor: Hackerster.io and Sony  
+### Sponsor: Hackster.io and Sony  
 
 Tools and Environments: AWS Lambda, Alexa Skills Kit, Node.js
 
