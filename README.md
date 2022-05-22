@@ -1,6 +1,6 @@
 # Air Scape  
 
-## Hackster.io Project - Particulate detector for air quality using Sony Spresense  
+## Hackster.io Project - Particulate detector for air quality using Sony Spresense IoT/Sparkfun/Sensirion   
 
 This is the index.js submission for Alexa Skill named ("air scape")
 
@@ -10,7 +10,7 @@ Team members: Bob Wilmes
 
 ### Sponsor: Hackster.io/Avnet and Sony Electronics  
 
-Tools and Environments: AWS Lambda, Alexa Skills Kit, Node.js
+Tools and Environments: Sony Spresense, AWS Lambda, Alexa Skills Kit, Node.js, Sparkfun Sensirion, Sparkfun QWIC Environmental Sensor
 
 ### Goal:  
 This project utilizes a mobile IoT platform comprised of a Sony Spresense and an environment sensor (CO2, temperature, barimetric pressure and humidity) (Sparkfun) 
